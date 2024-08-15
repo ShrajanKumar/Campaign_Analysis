@@ -1,1 +1,3 @@
 # Campaign_Analysis
+
+To Interact with dashboard : https://app.powerbi.com/view?r=eyJrIjoiYTg4NWM1M2YtZTRjYS00OGExLWFmZTMtNzRkZGYzZTU2MmI5IiwidCI6IjBlNjA2MTkxLWJkMTctNDI3NC1iOWZkLTgxMDY5YTM5ZDlkMiJ9&pageName=ReportSectionf2e0683b73cf982f241a
